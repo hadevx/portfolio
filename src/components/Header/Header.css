@@ -1,0 +1,123 @@
+.header {
+  margin-top: 4rem;
+  padding: 0 2rem;
+}
+.header__title {
+  animation-name: animatee;
+  animation-duration: 2s;
+  position: relative;
+  animation-fill-mode: forwards;
+}
+.header__title h1 {
+  font-size: 4rem;
+}
+
+.header p {
+  font-size: 1.2rem;
+  margin-top: 2rem;
+  color: #abdce8;
+  font-family: var(--font-family);
+}
+.header__skills {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.header__skills-title h3 {
+  color: #fff;
+  font-size: 2rem;
+  font-family: var(--font-family);
+}
+.header__skills-img {
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+  justify-content: flex-start;
+  margin-top: 0.5rem;
+}
+
+.header__skills img {
+  width: 50px;
+  height: 50px;
+  margin-top: 20px;
+  animation-name: rotate;
+  animation-duration: 2s;
+}
+.header__card {
+  margin-top: 4rem;
+  background: linear-gradient(89.97deg, #e35252 1.84%, #bb15ae 102.67%);
+  padding: 35px;
+  display: flex;
+  border-radius: 12px;
+  text-align: center;
+  justify-content: space-around;
+  color: #fff;
+  font-size: 1.7rem;
+  column-gap: 30px;
+}
+.header__card p {
+  font-size: 15px;
+  margin-top: -1px;
+}
+
+.header__card-3 {
+  box-shadow: 0 0 3px black;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(16, 16, 79, 1) 100%
+  );
+  border-radius: 17px;
+  padding: 17px;
+  cursor: pointer;
+}
+.header__card-3:hover {
+  opacity: 0.9;
+}
+
+.header__card-3 a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+  font-family: var(--font-family);
+}
+
+@keyframes animatee {
+  0% {
+    opacity: 0;
+    left: -30px;
+  }
+  100% {
+    opacity: 1;
+    left: 10px;
+  }
+}
+
+@keyframes rotate {
+  0% {
+    opacity: 0;
+    transform: rotate(0deg);
+  }
+  100% {
+    opacity: 1;
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes gradient {
+  0% {
+    background: linear-gradient(89.97deg, #ae67fa 1.84%, #f49867 102.67%);
+
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  100% {
+    background: linear-gradient(89.97deg, #e0ac2a 1.84%, #0d9156 102.67%);
+
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
