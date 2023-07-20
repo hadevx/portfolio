@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b5fbd582.css",
+    "main.js": "/portfolio/static/js/main.2de86dba.js",
+    "static/media/img1.jpg": "/portfolio/static/media/img1.644e09ab47865779ea9c.jpg",
+    "static/media/img3.jpg": "/portfolio/static/media/img3.b8b43f2468e9bffb3060.jpg",
+    "static/media/img5.jpg": "/portfolio/static/media/img5.7851a64a867f755edac8.jpg",
+    "static/media/jana.jpg": "/portfolio/static/media/jana.310d91aa63ce34f46844.jpg",
+    "static/media/soug.png": "/portfolio/static/media/soug.3534b929b8ff2a149f9d.png",
+    "static/media/baroud3.jpg": "/portfolio/static/media/baroud3.d2eb0e6850e4dcf562ca.jpg",
+    "static/media/img10.jpg": "/portfolio/static/media/img10.fdde616a27b8f195324c.jpg",
+    "static/media/auk.jpg": "/portfolio/static/media/auk.c073603e572542176a2a.jpg",
+    "static/media/pi.jpg": "/portfolio/static/media/pi.b21ef9c3315a651218a5.jpg",
+    "static/media/baroud2.jpg": "/portfolio/static/media/baroud2.57c038c6ab579690b295.jpg",
+    "static/media/taleha.png": "/portfolio/static/media/taleha.e08fb5852f37f707ace0.png",
+    "static/media/baroud1.png": "/portfolio/static/media/baroud1.3efee11edcb4079f7c3f.png",
+    "static/media/ktb.jpg": "/portfolio/static/media/ktb.0e984d07bdb3caaab0b2.jpg",
+    "static/media/photoshop.png": "/portfolio/static/media/photoshop.d181f77c42d477baedd2.png",
+    "static/media/indesign.png": "/portfolio/static/media/indesign.8ee141d7c01311a3b031.png",
+    "static/media/illustrator.png": "/portfolio/static/media/illustrator.bd040c2a4fdb8b8fd1e4.png",
+    "static/media/engstux.png": "/portfolio/static/media/engstux.bad4f941d35160b896fb.png",
+    "index.html": "/portfolio/index.html",
+    "main.b5fbd582.css.map": "/portfolio/static/css/main.b5fbd582.css.map",
+    "main.2de86dba.js.map": "/portfolio/static/js/main.2de86dba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5fbd582.css",
+    "static/js/main.2de86dba.js"
+  ]
+}
