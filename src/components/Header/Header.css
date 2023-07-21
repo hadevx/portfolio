@@ -72,6 +72,7 @@
   padding: 17px;
   cursor: pointer;
 }
+
 .header__card-3:hover {
   opacity: 0.9;
 }
@@ -82,7 +83,16 @@
   font-size: 18px;
   font-family: var(--font-family);
 }
-
+.header__quote {
+  margin-top: 5rem;
+  color: #fcfcfc4b;
+}
+.header__quote h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.header__quote h3 {
+  float: right;
+}
 @keyframes animatee {
   0% {
     opacity: 0;

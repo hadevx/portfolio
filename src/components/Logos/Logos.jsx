@@ -13,6 +13,8 @@ import {
   img11,
   img12,
   img13,
+  img14,
+  img15,
 } from "./imports";
 import "./Logos.css";
 function Logos() {
@@ -40,7 +42,7 @@ function Logos() {
         <div className="logos__logo-seven">
           <img src={img8} className="img" />
         </div>
-        <div className="logos__logo-eight">
+        <div className="logos__logo-auk">
           <img src={img9} className="img" />
         </div>
         <div className="logos__logo-abaya">
@@ -54,6 +56,12 @@ function Logos() {
         </div>
         <div className="logos__logo-jana">
           <img src={img13} className="img" />
+        </div>
+        <div className="logos__logo-saha">
+          <img src={img14} className="img" />
+        </div>
+        <div className="logos__logo-baja">
+          <img src={img15} className="img" />
         </div>
       </div>
     </>

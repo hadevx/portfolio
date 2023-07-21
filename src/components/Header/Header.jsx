@@ -37,6 +37,12 @@ function Header() {
             <a href="https://www.instagram.com/engstux/">Request a design</a>
           </div>
         </div>
+        <div className="header__quote">
+          <h1>
+            <q> Design is intelligence made visible </q>
+          </h1>
+          <h3>-Alina Wheeler</h3>
+        </div>
       </div>
     </>
   );

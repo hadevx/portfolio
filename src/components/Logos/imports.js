@@ -11,6 +11,8 @@ import img10 from "../../assets/img10.jpg";
 import img11 from "../../assets/pi.jpg";
 import img12 from "../../assets/soug.png";
 import img13 from "../../assets/jana.jpg";
+import img14 from "../../assets/saha.png";
+import img15 from "../../assets/baja.jpg";
 
 export {
   img1,
@@ -26,4 +28,6 @@ export {
   img11,
   img12,
   img13,
+  img14,
+  img15,
 };
