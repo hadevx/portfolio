@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b5fbd582.css",
-    "main.js": "/portfolio/static/js/main.2de86dba.js",
+    "main.css": "/portfolio/static/css/main.d498fa5b.css",
+    "main.js": "/portfolio/static/js/main.d4c21b01.js",
     "static/media/img1.jpg": "/portfolio/static/media/img1.644e09ab47865779ea9c.jpg",
     "static/media/img3.jpg": "/portfolio/static/media/img3.b8b43f2468e9bffb3060.jpg",
     "static/media/img5.jpg": "/portfolio/static/media/img5.7851a64a867f755edac8.jpg",
@@ -12,6 +12,8 @@
     "static/media/auk.jpg": "/portfolio/static/media/auk.c073603e572542176a2a.jpg",
     "static/media/pi.jpg": "/portfolio/static/media/pi.b21ef9c3315a651218a5.jpg",
     "static/media/baroud2.jpg": "/portfolio/static/media/baroud2.57c038c6ab579690b295.jpg",
+    "static/media/saha.png": "/portfolio/static/media/saha.6fd778a7946d5703d03e.png",
+    "static/media/baja.jpg": "/portfolio/static/media/baja.6b4a1ddd82302ded3f0a.jpg",
     "static/media/taleha.png": "/portfolio/static/media/taleha.e08fb5852f37f707ace0.png",
     "static/media/baroud1.png": "/portfolio/static/media/baroud1.3efee11edcb4079f7c3f.png",
     "static/media/ktb.jpg": "/portfolio/static/media/ktb.0e984d07bdb3caaab0b2.jpg",
@@ -20,11 +22,11 @@
     "static/media/illustrator.png": "/portfolio/static/media/illustrator.bd040c2a4fdb8b8fd1e4.png",
     "static/media/engstux.png": "/portfolio/static/media/engstux.bad4f941d35160b896fb.png",
     "index.html": "/portfolio/index.html",
-    "main.b5fbd582.css.map": "/portfolio/static/css/main.b5fbd582.css.map",
-    "main.2de86dba.js.map": "/portfolio/static/js/main.2de86dba.js.map"
+    "main.d498fa5b.css.map": "/portfolio/static/css/main.d498fa5b.css.map",
+    "main.d4c21b01.js.map": "/portfolio/static/js/main.d4c21b01.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5fbd582.css",
-    "static/js/main.2de86dba.js"
+    "static/css/main.d498fa5b.css",
+    "static/js/main.d4c21b01.js"
   ]
 }
