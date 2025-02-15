@@ -6,7 +6,7 @@ function Header() {
     <>
       <div id="header" className="header">
         <div className="header__title gradient__text">
-          <h1>I'm Hussain Al-Osaimi</h1>
+          <h1>I'm Jack Johns</h1>
         </div>
         <div className="header__paragraph">
           <p>
